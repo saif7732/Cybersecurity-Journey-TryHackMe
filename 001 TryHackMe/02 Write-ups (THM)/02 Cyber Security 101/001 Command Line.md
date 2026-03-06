@@ -67,7 +67,10 @@ fi
 ```
 ---
 ## output in terminal:
-
+### test case-1:
 <img width="574" height="204" alt="image" src="https://github.com/user-attachments/assets/41bc16bd-73be-41fa-9f36-d14943301c1f" />
+
+### test case-2:
+<img width="482" height="203" alt="image" src="https://github.com/user-attachments/assets/e7479584-7729-4c8c-9376-f26005684641" />
 
 
