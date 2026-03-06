@@ -1,3 +1,4 @@
+# <p align="center">Room: Linux Shells/Tasks-5 </p>
 # Locker Authentication Script – Shell Scripting Write-up
 
 ## Overview
@@ -72,5 +73,6 @@ fi
 
 ### test case-2:
 <img width="482" height="203" alt="image" src="https://github.com/user-attachments/assets/e7479584-7729-4c8c-9376-f26005684641" />
+
 
 
