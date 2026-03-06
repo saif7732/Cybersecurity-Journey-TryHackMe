@@ -64,4 +64,9 @@ if [ "$username" = "John" ] && [ "$companyname" = "Tryhackme" ] && [ "$pin" = "7
 else
     echo "Authentication Denied!!"
 fi
+```
+---
+#output in terminal:
+
+<img width="574" height="204" alt="image" src="https://github.com/user-attachments/assets/41bc16bd-73be-41fa-9f36-d14943301c1f" />
 
